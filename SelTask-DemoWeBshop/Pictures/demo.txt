@@ -1,0 +1,5 @@
+Open Browser
+URL==http://demowebshop.tricentis.com/register
+Broswer open successfully
+This is before class
+Cookies....msg
